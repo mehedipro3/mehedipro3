@@ -1,19 +1,19 @@
 ## Hi.....I'm Mehedi Hasan Ratul👋
 
 <a href="https://twitter.com/MehediRatul1">
-  <img align="left" alt="Sohel's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+  <img align="left" alt="mehedi's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 <a href="https://www.linkedin.com/in/mehedi-ratul-a36687236/">
-  <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+  <img align="left" alt="mehedi's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://github.com/mehedipro3">
-  <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
+  <img align="left" alt="mehedi's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
 <a href="https://www.instagram.com/m.ratul10/">
-  <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  <img align="left" alt="mehedi's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <a href="https://www.facebook.com/01883ratul/">
-  <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
+  <img align="left" alt="mehedi's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <br/>
 <br/>
