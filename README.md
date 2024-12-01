@@ -38,7 +38,7 @@
 <img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png"/>
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/640px-React_Logo_SVG.svg.png"/>
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
-<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>
+<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Mongodb-ar21.svg"/>
 
 
 <br/>
