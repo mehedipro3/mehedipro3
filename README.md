@@ -37,8 +37,8 @@
 <img align="left" alt="VsCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
 <img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png"/>
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/640px-React_Logo_SVG.svg.png"/>
-<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
-<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Mongodb-ar21.svg"/>
+<img align="left" alt="JS" width="26px" src="https://www.svgrepo.com/show/303360/nodejs-logo.svg"/>
+<img align="left" alt="JS" width="26px" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"/>
 
 
 <br/>
