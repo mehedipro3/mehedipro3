@@ -44,6 +44,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="30"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL" width="30"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" alt="Git" width="30"/>
+  <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="FastAPI" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="30"/>
 </p>
 
